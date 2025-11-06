@@ -5,5 +5,5 @@ Output: Hiển thị ra màn hình tổng, hiệu 2 số nguyên
 Input: Nhập vào cdai và crong
 Output: Hiển thị ra màn hình chuvi và dientich của hình chữ nhật
 #Bài 3: XÂY DỰNG CHƯƠNG TRÌNH TÍNH CHU VI DIỆN TÍCH HÌNH TRÒN
-Input: Nhập vào từ bàn phím bán rính
+Input: Nhập vào từ bàn phím bán kính
 Output: Hiển thị ra màn hình chuviHT và dientichHT của hình tròn
