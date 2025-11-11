@@ -8,7 +8,7 @@ int main() {
     
     char name [30];
     printf ("nhap ten cua ban: ");
-    scanf("%s" , &name);
+    scanf("%s", &name);
     return 0;
     
 }
