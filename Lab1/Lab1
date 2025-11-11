@@ -1,0 +1,11 @@
+#include <stdio.h>
+    int main() {
+        prinf("nhap vao 2 so thuc: ");
+        float a,b;
+        scanf ("%f %f" , &a , &b);
+        float tong = a + b;
+        float hieu = a - b;
+        printf("tong = %.2f \n" , tong);
+        printf("hieu = %.2f \n" , hieu);
+
+    }
